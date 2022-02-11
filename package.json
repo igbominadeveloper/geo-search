@@ -1,7 +1,7 @@
 {
-  "name": "graphql-api-template",
+  "name": "geocode-search",
   "version": "0.0.0",
-  "description": "A lambda starter template",
+  "description": "A Geocode search application",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
