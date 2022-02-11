@@ -1,6 +1,6 @@
 # serverless.yml
 
-service: graphql-api-template
+service: geocode-search
 provider:
   name: aws
   runtime: nodejs14.x
