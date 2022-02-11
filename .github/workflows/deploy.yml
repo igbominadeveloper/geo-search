@@ -19,7 +19,7 @@ jobs:
     environment: development
     env:
       ENV: dev
-      REGION: af-south-1
+      REGION: us-east-1
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
